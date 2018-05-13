@@ -1,0 +1,1 @@
+very good program for slack that sets your status to the last message sent in any public channel you are in + a random icon
